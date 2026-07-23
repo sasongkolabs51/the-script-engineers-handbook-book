@@ -1,28 +1,58 @@
-# Chapter 8 Companion Toolkit  
-*Pacing as Code — Engineering Rhythm, Pauses, and Emotional Peaks into Your Scripts*
+# Chapter 8 Companion Toolkit
 
-This toolkit gives you a complete rhythmic control system for AI‑generated scripts. You’ll learn to use fifteen pacing tokens that mark pauses, speed shifts, emphasis, and visual cues, then layer them into a rhythm grid that matches your narrative framework’s emotional arc. The result is a script that doesn’t just read well—it *performs* with natural, retention‑maximizing rhythm, slashing the post‑production choreography that once ate your editing hours.
+## *The Pacing Engineering Pack — From Wall-of-Text to Performance Score*
 
 ---
 
-[1. The Pacing Token Reference Card](1.%20The%20Pacing%20Token%20Reference%20Card.md)
+## How to Use This Toolkit
 
-[2. Rhythm Grid Builder Worksheet](2.%20Rhythm%20Grid%20Builder%20Worksheet.md)
+You built the structure, locked in the voice, and engineered a sharp hook inside a strong framework. Then you recorded the script and it sounded like someone reading a brilliant essay at 1.5x speed. The words were correct. Something essential was still absent: the music.
 
-[3. Pacing Injection Prompt Templates](3.%20Pacing%20Injection%20Prompt%20Templates.md)
+This toolkit restores that missing layer. Pacing bridges the gap between a script that reads well on the page and one that truly *performs*—words shaped by breath, timing, and rhythm. It shifts the viewer from processing your content intellectually to feeling it physically, because you paused at exactly the right moment.
 
-[4. B‑Roll Ready Prompt Insert](4.%20B‑Roll%20Ready%20Prompt%20Insert.md)
+With these tools, you engineer pacing directly in the prompt. In about five minutes of token placement guided by a rhythm grid, your script arrives pre‑scored. The pauses are already placed, the accelerations marked, and the B‑roll cues described. You simply perform.
 
-[5. Pacing Signature Builder](5.%20Pacing%20Signature%20Builder.md)
+**Suggested order:**
 
-[6. Voice Profile Pacing Addendum Template](6.%20Voice%20Profile%20Pacing%20Addendum%20Template.md)
+- **Tool 1** (Pacing Token Reference) — Your vocabulary. Learn these tokens and keep them open during every Layer 3 session.
+- **Tool 2** (Rhythm Grid Template) — The mapping method. Build one for every framework you rely on.
+- **Tool 3** (Pre‑Built Rhythm Grids) — Ready‑to‑use grids for PAS, the Hero’s Journey, and HSO.
+- **Tool 4** (The Upgraded Layer 3 Prompt) — Your complete pacing injection prompt. Fill in the blanks and run it.
+- **Tool 5** (B‑Roll Ready Specification) — Visual cue instructions that integrate into your prompt.
+- **Tool 6** (Hook‑Tempo Mapping) — Which tokens match which hook types, so you start with the right rhythm.
+- **Tool 7** (The Pacing Retrofit Prompt) — Add pacing to old scripts and feel the difference immediately.
+- **Tool 8** (Read‑Aloud Pacing Audit) — Evaluate your output before recording and catch rhythm problems early.
+- **Tool 9** (Troubleshooting Guide) — Diagnose when tokens feel rushed, choppy, or get ignored by the AI.
+- **Tool 10** (30‑Day Pacing Mastery Plan) — Build instinctive pacing through deliberate daily practice.
 
-[7. Integration Checklist](7.%20Integration%20Checklist.md)
+**The one rule:** Pacing tokens belong at structural inflection points—transitions, revelations, emotional peaks, and tonal shifts. Placing a token on every line kills rhythm just as surely as using none. Think of tokens as accents in music. You need the unaccented beats to make the accented ones land.
 
-[8. Troubleshooting Pacing Pitfalls](8.%20Troubleshooting%20Pacing%20Pitfalls.md)
+---
 
-[9. Daily Pacing Identity Anchor](9.%20Daily%20Pacing%20Identity%20Anchor.md)
+---
 
-[10. 7‑Day Pacing Practice Plan](10.%207‑Day%20Pacing%20Practice%20Plan.md)
+[TOOL 1 The Pacing Token Reference Card](TOOL%201%20The%20Pacing%20Token%20Reference%20Card.md)
 
-[11. AI Prompt Templates (Additional)](11.%20AI%20Prompt%20Templates%20(Additional).md)
+[TOOL 2 The Rhythm Grid Template (Blank)](TOOL%202%20The%20Rhythm%20Grid%20Template%20(Blank).md)
+
+[TOOL 3 Pre-Built Rhythm Grids](TOOL%203%20Pre-Built%20Rhythm%20Grids.md)
+
+[TOOL 4 The Upgraded Layer 3 Prompt (Complete Pacing Injection)](TOOL%204%20The%20Upgraded%20Layer%203%20Prompt%20(Complete%20Pacing%20Injection).md)
+
+[TOOL 5 B-Roll Ready Specification Template](TOOL%205%20B-Roll%20Ready%20Specification%20Template.md)
+
+[TOOL 6 Hook-Tempo Mapping](TOOL%206%20Hook-Tempo%20Mapping.md)
+
+[TOOL 7 The Pacing Retrofit Prompt](TOOL%207%20The%20Pacing%20Retrofit%20Prompt.md)
+
+[TOOL 8 The Read-Aloud Pacing Audit](TOOL%208%20The%20Read-Aloud%20Pacing%20Audit.md)
+
+[TOOL 9 Troubleshooting Guide — Pacing Failures](TOOL%209%20Troubleshooting%20Guide%20—%20Pacing%20Failures.md)
+
+[TOOL 10 The 30-Day Pacing Mastery Plan](TOOL%2010%20The%2030-Day%20Pacing%20Mastery%20Plan.md)
+
+[BONUS The Pacing Signature Addendum (For Your Voice Profile)](BONUS%20The%20Pacing%20Signature%20Addendum%20(For%20Your%20Voice%20Profile).md)
+
+[Quick-Reference The Pacing Workflow (One Page)](Quick-Reference%20The%20Pacing%20Workflow%20(One%20Page).md)
+
+[Final Note The Script Breathes Now](Final%20Note%20The%20Script%20Breathes%20Now.md)

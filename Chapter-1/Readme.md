@@ -1,24 +1,45 @@
-# Chapter 1 Companion Toolkit  
-*The Great AI Script Lie — From Detail Addict to Structural Detective*
-
-This toolkit transforms the intellectual shift of Chapter 1 into a hands‑on workshop. You’ll autopsy your own AI scripts, calculate the true cost of vague prompts, retrain your prompting fingers, and finally connect your retention data to the structural gaps you’ve been tolerating. Work through the exercises in order—each one builds a layer of the new Script Engineer’s lens.
+# Chapter 1 Companion Toolkit
+## *The Script Engineer's Starter Pack — From Detail Addict to Structural Detective*
 
 ---
 
-[1. AI Script Autopsy Worksheet](1.%20AI%20Script%20Autopsy%20Worksheet.md)
+## How to Use This Toolkit
 
-[2. Rewrite Tax Calculator](2.%20Rewrite%20Tax%20Calculator.md)
+You don’t have to complete this entire toolkit in a single session. The only requirement is that you take *one concrete step* before writing your next prompt. Chapter 1 drives home a critical point: intellectually grasping the Detail Fallacy changes nothing if your hands still automatically reach for “make it more engaging” out of habit. Awareness without action leaves the old patterns firmly in control. A small, immediate move breaks that cycle.
 
-[3. Detail Fallacy Spotter](3.%20Detail%20Fallacy%20Spotter.md)
+Follow this suggested sequence for the greatest impact:
 
-[4. Retention Gap Map](4.%20Retention%20Gap%20Map.md)
+- **Start with Tool 1** (the Autopsy Worksheet) applied to your most recent script. This exercise is a genuine eye-opener—it reveals exactly where vague instructions have been hiding.
+- **Move to Tool 2** (the Rewrite Tax Calculator) while the sting of wasted effort is still fresh. Seeing the real cost of imprecise prompts in concrete terms locks in the lesson.
+- **Use Tool 3** (the Detail Fallacy Spotter) to rewrite your old prompts. This step retrains your instincts, replacing fuzzy habits with precise, intentional language.
+- **Pull up your analytics for Tool 4** (the Retention Gap Map) if you have data available. If you don’t, skip it for now and return right after your next content upload.
+- **Keep Tools 5 through 9 bookmarked.** They become your go‑to working templates for every future project.
+- **Tool 10** is your 30‑day integration plan. Commit to it fully. This final step transforms a one‑time insight into a durable, everyday skill.
 
-[5. Structural Prompt Template The Narrative Blueprint Starter](5.%20Structural%20Prompt%20Template%20The%20Narrative%20Blueprint%20Starter.md)
+Print the pages that spark clarity. Fill in every section that applies to your situation. Cross out anything that doesn’t. These documents are living tools—designed to be marked up, personalized, and put straight into action.
 
-[6. BeforeAfter Structural Prompt Comparison Card](6.%20BeforeAfter%20Structural%20Prompt%20Comparison%20Card.md)
+---
 
-[7. Structural Function Cheat Sheet](7.%20Structural%20Function%20Cheat%20Sheet.md)
+---
 
-[8. Daily Structural Lens Practice Script](8.%20Daily%20Structural%20Lens%20Practice%20Script.md)
+[TOOL 1 The AI Script Autopsy Worksheet](TOOL%201%20The%20AI%20Script%20Autopsy%20Worksheet.md)
 
-[9. 7‑Day Structural Prompting Installation Plan](9.%207‑Day%20Structural%20Prompting%20Installation%20Plan.md)
+[TOOL 2 The Rewrite Tax Calculator](TOOL%202%20The%20Rewrite%20Tax%20Calculator.md)
+
+[TOOL 3 The Detail Fallacy Spotter](TOOL%203%20The%20Detail%20Fallacy%20Spotter.md)
+
+[TOOL 4 The Retention Gap Map](TOOL%204%20The%20Retention%20Gap%20Map.md)
+
+[TOOL 5 The Structural Prompt Builder (Fill-In Template)](TOOL%205%20The%20Structural%20Prompt%20Builder%20(Fill-In%20Template).md)
+
+[TOOL 6 The 60-Second Hook Engineer (Quick-Reference Card)](TOOL%206%20The%2060-Second%20Hook%20Engineer%20(Quick-Reference%20Card).md)
+
+[TOOL 7 Pre-Script Structural Checklist](TOOL%207%20Pre-Script%20Structural%20Checklist.md)
+
+[TOOL 8 Narrative Function Diagnostic Cards](TOOL%208%20Narrative%20Function%20Diagnostic%20Cards.md)
+
+[TOOL 9 AI Prompt Scripts — Ready-to-Use Templates](TOOL%209%20AI%20Prompt%20Scripts%20—%20Ready-to-Use%20Templates.md)
+
+[TOOL 10 The 30-Day Structural Prompting Integration Plan](TOOL%2010%20The%2030-Day%20Structural%20Prompting%20Integration%20Plan.md)
+
+[Quick-Reference The Chapter 1 Mental Model (One-Page Summary)](Quick-Reference%20The%20Chapter%201%20Mental%20Model%20(One-Page%20Summary).md)

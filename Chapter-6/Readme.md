@@ -1,26 +1,56 @@
-# Chapter 6 Companion Toolkit  
-*Framework Fluency — Making PAS, Hero’s Journey, and Story‑Payoff Executable by AI*
+# Chapter 6 Companion Toolkit
 
-This toolkit transforms your storytelling knowledge into AI‑ready blueprints. You’ll convert abstract frameworks into beat‑by‑beat command scripts, install guardrails that prevent the machine from lapsing into summary mode, and fully integrate narrative architecture into your Layered Prompting workflow. By the end, every script will have the emotional spine that keeps viewers watching—not just a hollow structural shell.
+## *The Framework Engineering Pack — From "Use PAS" to Executable Narrative Architecture*
 
 ---
 
-[1. Framework Selection Worksheet](1.%20Framework%20Selection%20Worksheet.md)
+## How to Use This Toolkit
 
-[2. Beat Script Builder Templates](2.%20Beat%20Script%20Builder%20Templates.md)
+You have invested in storytelling courses, studied the books, and mastered the acronyms. You know PAS inside and out. The Hero’s Journey feels familiar. Hook‑Story‑Offer makes sense. The knowledge sits comfortably in your head. The real challenge lies in *translation*—turning that rich narrative theory into precise instructions the AI can actually execute. This toolkit serves as that translation layer, the bridge from theory to output.
 
-[3. Guardrail Stack Template](3.%20Guardrail%20Stack%20Template.md)
+Every tool here rests on the same core principle: **break the framework into numbered beats, give each beat a mandatory emotional job and a clear content requirement, then prompt the AI to work through the beats one by one.** That is the entire secret. The execution details are where the magic lives, and these templates handle those details for you.
 
-[4. AI Prompt Templates](4.%20AI%20Prompt%20Templates.md)
+**Suggested order:**
 
-[5. Framework Integration into Layered Prompting (Updated Workflow)](5.%20Framework%20Integration%20into%20Layered%20Prompting%20(Updated%20Workflow).md)
+- **Tool 1** (Framework Selection Guide) — Begin here. Choose the framework that matches your content before you construct anything else.
+- **Tool 2** (PAS Beat Script) — Your first complete framework module. Fill it in, run it, and experience the shift firsthand.
+- **Tool 3** (Hero’s Journey Beat Script) — Your second module, built for story‑driven content.
+- **Tool 4** (Hook‑Story‑Offer Beat Script) — Your third module, aimed at direct‑response and conversion content.
+- **Tool 5** (The Guardrail Stack) — Attach this to the end of every framework prompt. It keeps the AI on track.
+- **Tool 6** (Framework Decomposition Worksheet) — Use this to convert any framework you discover into actionable beats.
+- **Tool 7** (The Upgraded Layer 1 + Layer 2 Prompts) — See how frameworks connect seamlessly into your Layered Prompting chain.
+- **Tool 8** (Self‑Assessment & Calibration Checklist) — Validate the output before you press record.
+- **Tool 9** (Troubleshooting Guide) — Rescue prompts when beats collapse, summaries creep in, or the emotional arc flattens.
+- **Tool 10** (The 30‑Day Framework Fluency Plan) — Build deep mastery across all three frameworks with consistent, deliberate practice.
 
-[6. Deployment Action Plan (One Session)](6.%20Deployment%20Action%20Plan%20(One%20Session).md)
+**The one rule:** Never type “use [framework name]” into a prompt again. Forget “use PAS,” “follow the Hero’s Journey,” or “write in Hook‑Story‑Offer format.” Those labels are shorthand for your mind. The AI receives the blueprint. You decompose the framework, specify every beat, and assign each one an emotional job. The framework name vanishes; the precise structural instructions remain. That is the translation layer in action.
 
-[7. Troubleshooting Guide](7.%20Troubleshooting%20Guide.md)
+---
 
-[8. Daily Framework Fluency Identity Anchor](8.%20Daily%20Framework%20Fluency%20Identity%20Anchor.md)
+---
 
-[9. 7‑Day Framework Fluency Practice Plan](9.%207‑Day%20Framework%20Fluency%20Practice%20Plan.md)
+[TOOL 1 Framework Selection Guide](TOOL%201%20Framework%20Selection%20Guide.md)
 
-[10. BeforeAfter Framework Comparison Card](10.%20BeforeAfter%20Framework%20Comparison%20Card.md)
+[TOOL 2 The PAS Beat Script (Complete Prompt Template)](TOOL%202%20The%20PAS%20Beat%20Script%20(Complete%20Prompt%20Template).md)
+
+[TOOL 3 The Hero's Journey Beat Script (7-Beat Video-Condensed)](TOOL%203%20The%20Hero's%20Journey%20Beat%20Script%20(7-Beat%20Video-Condensed).md)
+
+[TOOL 4 The Hook-Story-Offer Beat Script (4 Beats)](TOOL%204%20The%20Hook-Story-Offer%20Beat%20Script%20(4%20Beats).md)
+
+[TOOL 5 The Guardrail Stack](TOOL%205%20The%20Guardrail%20Stack.md)
+
+[TOOL 6 The Framework Decomposition Worksheet](TOOL%206%20The%20Framework%20Decomposition%20Worksheet.md)
+
+[TOOL 7 The Upgraded Layer 1 + Layer 2 Prompts](TOOL%207%20The%20Upgraded%20Layer%201%20+%20Layer%202%20Prompts.md)
+
+[TOOL 8 Self-Assessment & Calibration Checklist](TOOL%208%20Self-Assessment%20&%20Calibration%20Checklist.md)
+
+[TOOL 9 Troubleshooting Guide — Framework Execution Failures](TOOL%209%20Troubleshooting%20Guide%20—%20Framework%20Execution%20Failures.md)
+
+[TOOL 10 The 30-Day Framework Fluency Plan](TOOL%2010%20The%2030-Day%20Framework%20Fluency%20Plan.md)
+
+[BONUS The Framework Library Index Template](BONUS%20The%20Framework%20Library%20Index%20Template.md)
+
+[Quick-Reference The Framework Fluency Workflow (One Page)](Quick-Reference%20The%20Framework%20Fluency%20Workflow%20(One%20Page).md)
+
+[Final Note The $150 Course Just Paid for Itself](Final%20Note%20The%20$150%20Course%20Just%20Paid%20for%20Itself.md)
